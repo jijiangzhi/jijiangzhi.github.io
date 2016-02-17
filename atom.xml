@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-17T13:10:03.000Z</updated>
+  <updated>2016-02-17T14:34:29.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【转】成为优秀程序员的10条黄金法则</title>
+    <link href="http://yoursite.com/2016/02/17/%E3%80%90%E8%BD%AC%E3%80%91%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8410%E6%9D%A1%E9%BB%84%E9%87%91%E6%B3%95%E5%88%99/"/>
+    <id>http://yoursite.com/2016/02/17/【转】成为优秀程序员的10条黄金法则/</id>
+    <published>2016-02-17T14:18:23.000Z</published>
+    <updated>2016-02-17T14:34:29.000Z</updated>
+    
+    <content type="html">&lt;p&gt;下面这10个要点能帮助你成为一个更优秀的程序员。&lt;/p&gt;
+&lt;h3 id=&quot;1-__u4E0D_u8981_u91CD_u590D&quot;&gt;&lt;a href=&quot;#1-__u4E0D_u8981_u91CD_u590D&quot; class=&quot;headerlink&quot; title=&quot;1. 不要重复&quot;&gt;&lt;/a&gt;1. 不要重复&lt;/h3&gt;&lt;p&gt;这是一条非常值得遵循的伟大原则。我很习惯于回过头去检查自己写下的代码，重构那些被多次使用的部分。虽然在将一个长方法分解为若干个短方法时，会遇到一些困难。Ctrl + R + M在visual Studio中非常有用，可以帮助你重构代码为单独的方法。这使得代码更加可重用和可测试。&lt;/p&gt;
+&lt;h3 id=&quot;2-__u547D_u540D_u53D8_u91CF_u7684_u8981_u70B9_u4E3A_u8BF4_u660E_u5B83_u4EEC_u662F_u4EC0_u4E48_uFF0C_u800C_u975E_u5B83_u4EEC_u662F_u4EC0_u4E48_u6837_u7684_u6570_u636E_u7C7B_u578B&quot;&gt;&lt;a href=&quot;#2-__u547D_u540D_u53D8_u91CF_u7684_u8981_u70B9_u4E3A_u8BF4_u660E_u5B83_u4EEC_u662F_u4EC0_u4E48_uFF0C_u800C_u975E_u5B83_u4EEC_u662F_u4EC0_u4E48_u6837_u7684_u6570_u636E_u7C7B_u578B&quot; class=&quot;headerlink&quot; title=&quot;2. 命名变量的要点为说明它们是什么，而非它们是什么样的数据类型&quot;&gt;&lt;/a&gt;2. 命名变量的要点为说明它们是什么，而非它们是什么样的数据类型&lt;/h3&gt;&lt;p&gt;唯一的例外是，如果你正在处理别人的代码，并且需要继续参与的，那么你应该遵照他们的命名规则。&lt;/p&gt;
+&lt;h3 id=&quot;3-__u7ED9_u4F60_u7684_u65B9_u6CD5_u53D6_u4E00_u4E2A_u660E_u786E_u8BF4_u660E_u4ED6_u4EEC_u8981_u505A_u4EC0_u4E48_u7684_u540D_u79F0&quot;&gt;&lt;a href=&quot;#3-__u7ED9_u4F60_u7684_u65B9_u6CD5_u53D6_u4E00_u4E2A_u660E_u786E_u8BF4_u660E_u4ED6_u4EEC_u8981_u505A_u4EC0_u4E48_u7684_u540D_u79F0&quot; class=&quot;headerlink&quot; title=&quot;3. 给你的方法取一个明确说明他们要做什么的名称&quot;&gt;&lt;/a&gt;3. 给你的方法取一个明确说明他们要做什么的名称&lt;/h3&gt;&lt;p&gt;这一条如果做得好，那么将大大减少注释的必要。如果你的代码清晰易读，那还需要注释干什么。&lt;/p&gt;
+&lt;h3 id=&quot;4-__u4E0D_u8981_u4F7F_u7528_u5947_u5947_u602A_u602A_u7684_u6570_u5B57_u548C_u5B57_u7B26_u4E32_u5E38_u91CF&quot;&gt;&lt;a href=&quot;#4-__u4E0D_u8981_u4F7F_u7528_u5947_u5947_u602A_u602A_u7684_u6570_u5B57_u548C_u5B57_u7B26_u4E32_u5E38_u91CF&quot; class=&quot;headerlink&quot; title=&quot;4. 不要使用奇奇怪怪的数字和字符串常量&quot;&gt;&lt;/a&gt;4. 不要使用奇奇怪怪的数字和字符串常量&lt;/h3&gt;&lt;p&gt;你的代码中不应该有任何会造成他人误解或需要猜测的数字和字符串值。创建常量、枚举和私有变量时，要给他们取一个能够更易于理解的名字。&lt;/p&gt;
+&lt;h3 id=&quot;5-__u53EF_u80FD_u7684_u8BDD_uFF0C_u81EA_u5DF1_u5199_u65B9_u6CD5_uFF0C_u8FD9_u6837_u5728_u6D4B_u8BD5_u65B9_u6CD5_u65F6_uFF0C_u5C31_u4E0D_u4F1A_u5BF9_u5E94_u7528_u7A0B_u5E8F_u7684_u5176_u4ED6_u90E8_u5206_u6709_u4EFB_u4F55_u4F9D_u8D56&quot;&gt;&lt;a href=&quot;#5-__u53EF_u80FD_u7684_u8BDD_uFF0C_u81EA_u5DF1_u5199_u65B9_u6CD5_uFF0C_u8FD9_u6837_u5728_u6D4B_u8BD5_u65B9_u6CD5_u65F6_uFF0C_u5C31_u4E0D_u4F1A_u5BF9_u5E94_u7528_u7A0B_u5E8F_u7684_u5176_u4ED6_u90E8_u5206_u6709_u4EFB_u4F55_u4F9D_u8D56&quot; class=&quot;headerlink&quot; title=&quot;5. 可能的话，自己写方法，这样在测试方法时，就不会对应用程序的其他部分有任何依赖&quot;&gt;&lt;/a&gt;5. 可能的话，自己写方法，这样在测试方法时，就不会对应用程序的其他部分有任何依赖&lt;/h3&gt;&lt;p&gt;将方法写成不需要关注从哪里调用的方式。这样会让代码更可测和更可重用。&lt;/p&gt;
+&lt;p&gt;如果你正在使用会话值或app设定值，那么把它们作为变量传递，得到会话，并在你调用方法的时候配置值。这能让代码变得更可测。&lt;/p&gt;
+&lt;h3 id=&quot;6-__u4E0D_u8981_u5BB3_u6015_u5BFB_u6C42_u5E2E_u52A9&quot;&gt;&lt;a href=&quot;#6-__u4E0D_u8981_u5BB3_u6015_u5BFB_u6C42_u5E2E_u52A9&quot; class=&quot;headerlink&quot; title=&quot;6. 不要害怕寻求帮助&quot;&gt;&lt;/a&gt;6. 不要害怕寻求帮助&lt;/h3&gt;&lt;p&gt;这句话不是让你在碰到所有问题时都去寻求帮助，我的意思首先你得自己去思考，去尝试自己解决问题，但如果你实在想不出解决方法，那么就应该去寻求他 人的帮助。可能已经有人经历过这个问题，知道如何解决它。同时，在告诉别人你正在做什么，你期待什么样的结果，问题是什么的过程中，或许灵机一现，搞不好 你自己就揪出问题的关键了呢。&lt;/p&gt;
+&lt;h3 id=&quot;7-__u4E0D_u62D6_u5EF6&quot;&gt;&lt;a href=&quot;#7-__u4E0D_u62D6_u5EF6&quot; class=&quot;headerlink&quot; title=&quot;7. 不拖延&quot;&gt;&lt;/a&gt;7. 不拖延&lt;/h3&gt;&lt;p&gt;如果你看到bug或乱码，那么当时就解决然后再前进。不要想着以后去做或让别人去做。&lt;/p&gt;
+&lt;h3 id=&quot;8-__u4E0E_u4ED6_u4EBA_u5206_u4EAB_u77E5_u8BC6&quot;&gt;&lt;a href=&quot;#8-__u4E0E_u4ED6_u4EBA_u5206_u4EAB_u77E5_u8BC6&quot; class=&quot;headerlink&quot; title=&quot;8. 与他人分享知识&quot;&gt;&lt;/a&gt;8. 与他人分享知识&lt;/h3&gt;&lt;p&gt;不要敝帚自珍。尝试创建一种互助的文化。你会发现，团队的工作效率比单枪匹马更高，并且互相帮助的氛围能更快地提升各自的水平。同事的进步，并不会让你落后，也不会让你有被炒的风险。相反，你变得更有价值，因为你不但拥有渊博的知识，敢于学习，还能帮助周围的人一起提高。&lt;/p&gt;
+&lt;h3 id=&quot;9-__u5F53_u4F60_u7684_u540C_u4E8B_u6C89_u6D78_u5728_u601D_u8003_u4E2D_u65F6_uFF0C_u4E0D_u8981_u6253_u65AD_u4ED6_u4EEC&quot;&gt;&lt;a href=&quot;#9-__u5F53_u4F60_u7684_u540C_u4E8B_u6C89_u6D78_u5728_u601D_u8003_u4E2D_u65F6_uFF0C_u4E0D_u8981_u6253_u65AD_u4ED6_u4EEC&quot; class=&quot;headerlink&quot; title=&quot;9. 当你的同事沉浸在思考中时，不要打断他们&quot;&gt;&lt;/a&gt;9. 当你的同事沉浸在思考中时，不要打断他们&lt;/h3&gt;&lt;p&gt;己所不欲，勿施于人，当你自己沉浸在编程中时，当你的大脑高速运转工作时，就像你正在小心翼翼地用纸牌搭建房子一样，你也不希望有人来打搅你。这时 如果有人问你问题的话，那么你的注意力必然无法集中，就像房子可能会很容易坍塌。这可能需要5到10分钟的时间才能将注意力重新集中起来，将思绪一一理 顺，而原本这个问题只需要Google搜索一下，或者询问别人就能解决。如果你在这方面尊重你的同事，并且让他们知道这样做的重要性，那么他们也会做相同 的事，从而反过来让你变得更高效。&lt;/p&gt;
+&lt;h3 id=&quot;10-__u79EF_u6781_u5730_u9762_u5BF9_u6279_u8BC4_uFF0C_u800C_u4E0D_u662F_u6D88_u6781_u62B5_u5236_u3002&quot;&gt;&lt;a href=&quot;#10-__u79EF_u6781_u5730_u9762_u5BF9_u6279_u8BC4_uFF0C_u800C_u4E0D_u662F_u6D88_u6781_u62B5_u5236_u3002&quot; class=&quot;headerlink&quot; title=&quot;10. 积极地面对批评，而不是消极抵制。&quot;&gt;&lt;/a&gt;10. 积极地面对批评，而不是消极抵制。&lt;/h3&gt;&lt;p&gt;对我来说，批评是一个让我能够改善提高的机会。如果还有一种做事的方法是我没有想到的，那么我会想去了解它，因为这或许能帮助我改进自己。&lt;/p&gt;
+&lt;p&gt;好了，10条黄金法则已经讲述完毕，下面让我们一起学习它们，利用它们，成就更优秀的自己吧！&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;下面这10个要点能帮助你成为一个更优秀的程序员。&lt;/p&gt;
+&lt;h3 id=&quot;1-__u4E0D_u8981_u91CD_u590D&quot;&gt;&lt;a href=&quot;#1-__u4E0D_u8981_u91CD_u590D&quot; class=&quot;headerlink&quot; title=&quot;1. 不要重
+    
+    </summary>
+    
+      <category term="程序员" scheme="http://yoursite.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+    
+      <category term="程序员" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我是如何自学设计的</title>
     <link href="http://yoursite.com/2016/02/17/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6%E8%AE%BE%E8%AE%A1%E7%9A%84/"/>
     <id>http://yoursite.com/2016/02/17/我是如何自学设计的/</id>
     <published>2016-02-17T13:10:03.000Z</published>
-    <updated>2016-02-17T13:10:03.000Z</updated>
+    <updated>2016-02-17T14:34:25.000Z</updated>
     
     <content type="html"></content>
     
@@ -28,6 +64,10 @@
     
     </summary>
     
+      <category term="设计师" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
+    
+    
+      <category term="设计师" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
     
   </entry>
   
@@ -36,7 +76,7 @@
     <link href="http://yoursite.com/2016/02/17/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E4%BC%98%E7%A7%80%E7%9A%84%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
     <id>http://yoursite.com/2016/02/17/如何成为一名优秀的全栈工程师/</id>
     <published>2016-02-16T22:40:41.000Z</published>
-    <updated>2016-02-17T13:36:16.000Z</updated>
+    <updated>2016-02-17T13:36:32.000Z</updated>
     
     <content type="html">&lt;img src=&quot;/2016/02/17/如何成为一名优秀的全栈工程师/hero.png&quot; alt=&quot;《全栈工程师》&quot; title=&quot;《全栈工程师》&quot;&gt;
 &lt;h3 id=&quot;u5199_u5728_u6700_u524D&quot;&gt;&lt;a href=&quot;#u5199_u5728_u6700_u524D&quot; class=&quot;headerlink&quot; title=&quot;写在最前&quot;&gt;&lt;/a&gt;写在最前&lt;/h3&gt;&lt;p&gt;我的前一篇文章&lt;a href=&quot;http://www.jianshu.com/p/cb49694dd698&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《给职场新人的10点职涯建议》&lt;/a&gt;发表后，得到了很多简友，特别是年轻程序员朋友们的喜爱，这令我颇感意外，但又很受鼓舞。同时，我也收到了一些简信，大多来自那些毕业不久，刚步入工作岗位的职场新人。询问的内容也大多是如何选择职业方向，如何成为一名优秀的软件工程师，以及怎样快速提高自身的技能等。我在一一回复的同时，不禁想结合自身的经历，谈谈如何才能成为一名优秀的全栈工程师。&lt;/p&gt;
