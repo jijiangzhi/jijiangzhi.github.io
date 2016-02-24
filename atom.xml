@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-21T02:23:25.000Z</updated>
+  <updated>2016-02-24T21:52:33.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,91 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自学设计，你真的入门了吗？</title>
+    <link href="http://yoursite.com/2016/02/25/%E8%87%AA%E5%AD%A6%E8%AE%BE%E8%AE%A1%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%85%A5%E9%97%A8%E4%BA%86%E5%90%97%EF%BC%9F/"/>
+    <id>http://yoursite.com/2016/02/25/自学设计，你真的入门了吗？/</id>
+    <published>2016-02-24T21:39:46.000Z</published>
+    <updated>2016-02-24T21:52:33.000Z</updated>
+    
+    <content type="html">&lt;img src=&quot;/2016/02/25/自学设计，你真的入门了吗？/hero_illustration.png&quot; alt=&quot;hero_illustration.png&quot; title=&quot;&quot;&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;u5199_u7ED9UI_u8BBE_u8BA1_u521D_u5B66_u8005_u4EEC&quot;&gt;&lt;a href=&quot;#u5199_u7ED9UI_u8BBE_u8BA1_u521D_u5B66_u8005_u4EEC&quot; class=&quot;headerlink&quot; title=&quot;写给UI设计初学者们&quot;&gt;&lt;/a&gt;写给UI设计初学者们&lt;/h3&gt;&lt;p&gt;几乎每隔几天我便能在简书或其他各类设计网站看到关于自学UI设计的分享文章。这些文章有一个共同的特点，就是描述作者如何从一个零基础的设计小白，通过种种途径，成长为一个熟练掌握PS或AI的设计达人的，亦或是分享了一堆有参考价值的设计类网站或工具等等。这些文章的点击率很高，因为通过这些初学者眼中的“干货”，能够很容易地进行模仿，并得到技能上的快速提升。&lt;/p&gt;
+&lt;p&gt;但我想问的是，这真的是学习UI设计的正确方式吗，如果不是，那有没有一篇能够正确引领大家学习UI设计的文章呢？很可惜，我在网上搜了很久，没有找到那篇我认为是正确的文章。&lt;/p&gt;
+&lt;p&gt;导致这个问题，我觉得可能有以下两个原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这类文章的内容往往比较“湿”，理论性比较强，需要时间慢慢体会，不是拿来就能用的东西，因此文章的点击率往往较低，随着时间的推移，很快便淹没在了那些新鲜出炉的设计干货之中，而无法搜索到了。&lt;/li&gt;
+&lt;li&gt;那些真正优秀的设计师往往都早已过了初学者那个阶段，他们也更乐于分享自己的设计观点或杰出作品，却很难站在一个初学者的角度来写如何学习设计的文章了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我也曾和很多设计初学者们一样在自学的过程中有过困惑，走过弯路。今天，我仍在不断地努力学习，去尝试理解设计的真正含义。我也希望通过这篇文章，能给那些还在设计门外打转，不得其门而入的学习者们一些不同的启发。&lt;/p&gt;
+&lt;h3 id=&quot;u6211_u4E3A_u4EC0_u4E48_u81EA_u5B66UI_u8BBE_u8BA1&quot;&gt;&lt;a href=&quot;#u6211_u4E3A_u4EC0_u4E48_u81EA_u5B66UI_u8BBE_u8BA1&quot; class=&quot;headerlink&quot; title=&quot;我为什么自学UI设计&quot;&gt;&lt;/a&gt;我为什么自学UI设计&lt;/h3&gt;&lt;p&gt;我之所以自学UI设计，其实源于一次失败的创业实验。称它为实验，是因为它并不算是一次真正的创业，我和我的合伙人并没有放弃自己的工作，而是利用一些业余时间来做一个以实习生为主题的社区（那时还是“开心”、“人人” 这样的SNS社交平台大行其道的年代）。我那时是一家500强金融集团的应用架构师，因此，便当仁不让地承担起了我们这个团队中程序员的角色，负责完成了整个平台的架构以及开发工作。但始终困扰我们的是，找不到一名优秀的UI设计师，能够把这个平台推到一个产品的高度。我们也曾经通过朋友介绍或在淘宝上寻找，合作过几位设计师，但由于种种原因（有技能问题，理念问题，投入度问题 等等）都无法达到我们的要求，最后也都不欢而散了。当然，我们的这次创业也最终以失败而告终。现在回想起来，失败的原因有很多，但缺少一名靠谱的UI设计师，导致我们的产品迟迟不能推向市场，是这次失败的一个非常重要的原因。&lt;/p&gt;
+&lt;p&gt;我始终觉得自己还是一个有着产品梦想的人（自我鼓励一下^-^），因此，为了下一次重新启航行时，不再重蹈覆辙，我便决定开始自学UI设计。&lt;/p&gt;
+&lt;h3 id=&quot;u81EA_u5B66_u8DEF_u4E0A_u7684_u56F0_u6270&quot;&gt;&lt;a href=&quot;#u81EA_u5B66_u8DEF_u4E0A_u7684_u56F0_u6270&quot; class=&quot;headerlink&quot; title=&quot;自学路上的困扰&quot;&gt;&lt;/a&gt;自学路上的困扰&lt;/h3&gt;&lt;p&gt;我在自学UI设计的道路上，走得并不平坦，有过很多困扰和挫折。今天想来，其实最大的障碍正是源于自身对于UI设计本身的理解不够全面和深刻所导致的。&lt;/p&gt;
+&lt;p&gt;概括起来，主要有以下几个发面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;对于学习UI设计的困难准备不足&lt;/strong&gt;：由于在此之前，一直从事企业级应用的研发，因此，那时在我们的圈子里，设计师（我们更多称为“美工”）属于非常边缘的辅助角色。我也想当然地觉得学习那些技能对于我来说是小菜一碟，几周就能搞定。但实践证明，我错了，真正的UI设计远没有想象中那么容易掌握，直到今天，我都不敢说自己已经掌握了UI设计并能称得上是一个UI设计师。而随着我对设计本身理解的加深，对设计师的看法也完全转变了，他们不再是我口中的美工，而是一个能够左右产品优劣，驱动产品研发的关键角色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;认为 学习UI设计 = 学习 PS、AI等工具&lt;/strong&gt;：当决定学习UI设计后，我便开始在网上搜索如何学习UI设计，而“度娘”给我的答案便是大量的PS、AI等各种设计教程。我也是一路拼命下载，然后不分昼夜地学习。不久之后，我确实能够按照这些学习指南P出一些图，或是作出几个图标来了，但当我尝试独立去做一个完整的UI设计时，我突然发现我作出来的东西与那些我所见过的优秀设计仍是天差地别，即使是我完全模仿那些优秀作品做的设计，仍然感觉怪怪的，好像哪里出了问题，自己又说不清楚。这时，我才意识到我的学习方法可能错了，简单地说就是捡了芝麻丢了西瓜，虽然掌握了一些设计工具技巧，但却对真正的设计一无所知。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;审美能力不足&lt;/strong&gt;：另一个我遇到过的困难便是自身审美能力的不足。其实我想说，这不仅是我一个人的问题，可能也是我们这一代，甚至是几代人共同的问题。由于整个教育体系对于学生在美学教育上不够重视，导致我们从小缺少艺术和美的熏陶，美术课往往会被语数外等主课霸占，从而成为摆设。由于缺乏对美的感知和判断能力，导致我们很难准确评判自己作品的优劣，更不会知道如何去改善它。放到更大的角度，我们很难像苹果那样设计出伟大的产品来。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;u91CD_u65B0_u8BA4_u8BC6UI_u8BBE_u8BA1&quot;&gt;&lt;a href=&quot;#u91CD_u65B0_u8BA4_u8BC6UI_u8BBE_u8BA1&quot; class=&quot;headerlink&quot; title=&quot;重新认识UI设计&quot;&gt;&lt;/a&gt;重新认识UI设计&lt;/h3&gt;&lt;p&gt;在意识到学习方法的错误之后，我便再次寻求了“度娘”的帮助，但这一次我要找的是那些优秀设计师们自己对于设计的感悟，设计心得，推荐阅读的设计类书籍 等等。我也放下了手中的PS、AI，静下心来进行大量的阅读。通过这些阅读，我也渐渐了解并重新认识了UI设计。&lt;/p&gt;
+&lt;p&gt;经过对设计知识的重新梳理，我将所需要掌握的基本设计技能归纳为以下10点（我将会在日后的《技匠谈设计》系列文章中对以下每一点进行展开，并分享我的设计心得）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;色彩&lt;/strong&gt;：需要理解色彩的基本原理以及配色方法。色彩很难把控，因为它很容易被过度使用。如果，你还是一个初学者，那么尽可能使用柔和的色彩，仅在需要强调的地方使用更醒目的色彩。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;字体与排版&lt;/strong&gt;：文字往往占据整个设计内容超过80%的区域，所以理解如何使用正确的字体和排版方式非常重要。请将内容的清晰易读作为你定义字体和做排版的首要目标。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;动效&lt;/strong&gt;：动效能够显著增强一个应用的用户体验。他们能使你的应用更有生气和迷人，前提是你所设计的动效快速、流畅，并且是符合用户预期的。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;图标&lt;/strong&gt;：优秀的图标往往与我们每天见到的事物紧密关联，比如 相机、垃圾桶、云等等，能让人一眼就识别出它所代表的功能。因此，使用那些具有良好辨识度的图标，避免让用户产生混淆。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;声效&lt;/strong&gt;：声效在设计中用得很少，但恰如其分的声效能够提升用户体验。用户不用看到你的应用，光听到一个熟悉的声音便能识别出你的产品来。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;获得设计灵感&lt;/strong&gt;：设计灵感不是与生俱来的，你需要不断地寻找它。有很多获得设计灵感的方法，下文中我将分享我的一些经验。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设计原则&lt;/strong&gt;：流行转瞬即逝，但设计中最本质的东西却能永恒。设计大师们很早就认识到了这些，并将它们提炼为设计原则。你要做的是，理解这些设计原则，并将它们运用到你的设计之中。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;用户体验设计&lt;/strong&gt;：你需要了解你的用户，这样才能设计出符合用户需求的产品。学习设计心理学，将有利于你设计出更人性化的产品。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基于不同平台的设计&lt;/strong&gt;：在不同平台设计产品有很大的差异，你需要了解产品所在的平台（如 IOS，Android），并符合它们各自的设计规范。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设计工具&lt;/strong&gt;：设计工具有很多，对于UI设计，我建议使用Sketch3，因为它是专为UI设计而生的，能给你带来更高的设计效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;u6539_u53D8_u8BBE_u8BA1_u5DE5_u5177&quot;&gt;&lt;a href=&quot;#u6539_u53D8_u8BBE_u8BA1_u5DE5_u5177&quot; class=&quot;headerlink&quot; title=&quot;改变设计工具&quot;&gt;&lt;/a&gt;改变设计工具&lt;/h3&gt;&lt;p&gt;自从我改变学习UI的方法之后，一直到今天，我每天都会坚持阅读 &lt;a href=&quot;https://www.designernews.co/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Designer News&lt;/a&gt; 上的每日推荐文章，它能让我了解国外优秀的设计师门都在想些什么或做些什么。而这之中，给我带来最大改变的便是，我放弃了原来使用的 PhotoShop，而开始使用Sketch来进行UI设计。因为我惊讶地发现越来越多的国外设计师，特别是在初创公司的设计师们开始使用Sketch作为他们的设计工具。&lt;/p&gt;
+&lt;p&gt;（ 下图为2015年 &lt;a href=&quot;http://tools.subtraction.com/interface-design.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Substraction.com&lt;/a&gt; 对4,000名来自不同领域的UI设计师的问卷调查后得到的UI设计工具使用情况 ，Sketch已经大幅超越PhotoShop成为设计师们首选的UI设计工具）&lt;/p&gt;
+&lt;img src=&quot;/2016/02/25/自学设计，你真的入门了吗？/Design_Tools_Survey.jpeg&quot; alt=&quot;Design_Tools_Survey.jpeg&quot; title=&quot;&quot;&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;实践证明，Sketch的使用确实给我带来了极大的惊喜。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;小巧快捷&lt;/strong&gt;：Sketch只有&lt;strong&gt;41M&lt;/strong&gt;，相较&lt;strong&gt;1.6GB&lt;/strong&gt;的Photoshop来说显得非常的小巧。因此无论是安装，还是启动、运行，Sketch都非常快捷。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;专为UI设计而生&lt;/strong&gt;：Photoshop是一个图片处理工具，它包含了大量图片处理功能，而这些对于UI设计师来说是多余的，并会成为UI设计师们工作时的噪音，降低他们的设计效率。而Sketch则专注于UI设计，它的所有功能都只为UI设计服务，比如：使用统一的计量单位 Pixel 使你不必关注其他计量单位（cm，ml，picas），支持HSB、RGB颜色模型和色板功能，使用Symbol可以将方便的复用你的设计元素，针对任意设计元素或元素组导出不同分辨率的图片 等等。另外你不用再面对一个一半功能都不会去碰的工具栏，也完全不用去关心那些与UI设计无关的东西，这使你更容易学习和掌握这个设计工具。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;强大的插件功能&lt;/strong&gt; ：虽然Sketch的核心非常小，但它却提供了非常强大的插件功能。针对不同的设计场景，可以使用不同的插件。比如，你可以使用Sketch Palettes保存你的常用色板，并与朋友方便地分享。使用 Magic Mirror 可以将你的设计方便地展示到不同的实体模型（如: iPhone，iPad，书的封面 等等）。也可以使用 Sketch Content Generator 来批量地产生内容，这能为设计师节省大量的时间。还有像Measure、Dynamic Button、Sketch Constraints 等许多非常优秀的插件可以帮助你大大提升工作效率，从而使你更能够专注于设计本身。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上只是Sketch所带来的众多优秀特性中的一小部分，网上已经有很多关于Sketch的设计教程和指南，你能通过这些资料，快速的学习并掌握Sketch。我正看到越来越多如Sketch，Affinity Designer, Affinity Photo 等创新工具对设计工具领域带来的变革，他们不再追求大而全，而更注重于以最简洁、高效的方式服务于不同的设计目的。这也正是互联网思维在设计工具领域的一个体现。因此，如果你是一个UI设计初学者，亦或已经是一名UI设计师并正在使用PS、AI等工具，我都建议你尝试使用Sketch，因为，它是一个能给你带来巨大改变并代表着未来的优秀设计工具。&lt;/p&gt;
+&lt;h3 id=&quot;u5BFB_u627E_u8BBE_u8BA1_u7075_u611F&quot;&gt;&lt;a href=&quot;#u5BFB_u627E_u8BBE_u8BA1_u7075_u611F&quot; class=&quot;headerlink&quot; title=&quot;寻找设计灵感&quot;&gt;&lt;/a&gt;寻找设计灵感&lt;/h3&gt;&lt;p&gt;对于设计初学者来说，经常会为找不到设计灵感而苦恼。而我想说的是，灵感不是与生俱来的，它需要你去不断地寻找。如果没有灵感，你将永远不能开始，更别说去完成一个设计了。下面是我使用的一些方法。&lt;/p&gt;
+&lt;h4 id=&quot;u9605_u8BFB&quot;&gt;&lt;a href=&quot;#u9605_u8BFB&quot; class=&quot;headerlink&quot; title=&quot;阅读&quot;&gt;&lt;/a&gt;阅读&lt;/h4&gt;&lt;p&gt;我没有上过任何设计学校或培训班，因此我的大部分设计知识，都是从阅读中获得的。我几乎不读那些30天速成系列的书或关于设计趋势的文章，因为我知道技术的变化是非常快的，正如，我现在完全使用Sketch来做设计，而不用PS一样。我更关注设计的本质，书是获得这方面知识的很好途径。&lt;/p&gt;
+&lt;p&gt;下面是我书橱中的一部分设计类书籍，我阅读那些对设计有着深刻思想的人物传记 如《乔布斯传》，与设计相关的心理学书籍《设计心理学》、与色彩相关的《色彩设计》，与字体相关的《设计师的自我修养》等等。也正是通过这些书籍，让我逐步理解了设计的内涵，从而让我彻底走出了之前学习设计时的误区。&lt;/p&gt;
+&lt;img src=&quot;/2016/02/25/自学设计，你真的入门了吗？/my_books.jpg&quot; alt=&quot;my_books.jpg&quot; title=&quot;&quot;&gt;
+&lt;p&gt;另外我也会读一些网上的优秀文章，&lt;a href=&quot;https://www.designernews.co/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Designer News&lt;/a&gt; 是一个我获得高质量设计文章的优秀网站，在这里我可以看到最新的来自全球设计师的优秀分享。当然，我也在 &lt;a href=&quot;http://www.uisdc.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;优设&lt;/a&gt;、&lt;a href=&quot;http://www.tuicool.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;推酷&lt;/a&gt;、&lt;a href=&quot;https://medium.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Medium&lt;/a&gt; 等网站上阅读那些具有思想性的设计文章，并且通过关注一些优秀的设计师，从他们身上学到了很多经验和启发，给我学习UI设计带来了极大的帮助。&lt;/p&gt;
+&lt;h4 id=&quot;u6536_u96C6_u4F18_u79C0_u8BBE_u8BA1&quot;&gt;&lt;a href=&quot;#u6536_u96C6_u4F18_u79C0_u8BBE_u8BA1&quot; class=&quot;headerlink&quot; title=&quot;收集优秀设计&quot;&gt;&lt;/a&gt;收集优秀设计&lt;/h4&gt;&lt;p&gt;另一个获得灵感的方法是收集优秀的设计作品。Ember是我用过的用来收集设计素材的最佳工具。更棒的是它支持订阅功能，可以从Dribbble这样的网站自动下载设计作品，并让我非常方便地浏览和收集。(下图为我的Ember应用截图)&lt;/p&gt;
+&lt;img src=&quot;/2016/02/25/自学设计，你真的入门了吗？/ember.png&quot; alt=&quot;ember.png&quot; title=&quot;&quot;&gt;
+&lt;p&gt;除了Ember之外，我也使用&lt;a href=&quot;https://www.pinterest.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Pintrest&lt;/a&gt;来收集手机上看到的优秀设计，并按照分类添加大我在Pintrest上创建的Board中。(下图为&lt;a href=&quot;https://www.pinterest.com/techmask/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;我的Pintrest主页&lt;/a&gt;)&lt;/p&gt;
+&lt;img src=&quot;/2016/02/25/自学设计，你真的入门了吗？/pinterest.png&quot; alt=&quot;pinterest.png&quot; title=&quot;&quot;&gt;
+&lt;h4 id=&quot;u62E5_u6709_u5DE5_u5320_u7CBE_u795E&quot;&gt;&lt;a href=&quot;#u62E5_u6709_u5DE5_u5320_u7CBE_u795E&quot; class=&quot;headerlink&quot; title=&quot;拥有工匠精神&quot;&gt;&lt;/a&gt;拥有工匠精神&lt;/h4&gt;&lt;p&gt;你所做的每一件事情，它的背后都可以和艺术联系在一起。只要是付出了努力，精心制作，并能反映出作者情感与灵魂的东西都可以被称为艺术品。想一想你平时喜欢做的事情，阅读，散步，美食或者看展览。这其中的每一件都与一种艺术形式相关联：写作，环球旅行，烹饪、摄影。你会发现当你当你不断完善某一项技能的同时，其他技能也会得到加强。对于设计来说，上面提到的 写作、摄影、旅行等都是对设计能力的很好补充。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;最后&lt;/strong&gt;，希望能够得到更多朋友的反馈，“喜欢”或是“点评”，你们的意见能够帮助我验证自己对设计的理解，并帮助我不断完善它。你也可以在简书中关注我，后续，我会陆续将文中提到的 色彩、文字与排版、动效、图标等内容以【技匠谈设计】系列文章的形式分享给大家。感谢大家的支持和鼓励 ^-^&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/02/25/自学设计，你真的入门了吗？/hero_illustration.png&quot; alt=&quot;hero_illustration.png&quot; title=&quot;&quot;&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;u5199_u7ED9UI_u8BBE_u8B
+    
+    </summary>
+    
+      <category term="设计师" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
+    
+    
+      <category term="设计" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>为什么你应该写作</title>
@@ -156,26 +241,6 @@
     
     
       <category term="程序员" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我是如何自学设计的</title>
-    <link href="http://yoursite.com/2016/02/17/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6%E8%AE%BE%E8%AE%A1%E7%9A%84/"/>
-    <id>http://yoursite.com/2016/02/17/我是如何自学设计的/</id>
-    <published>2016-02-17T13:10:03.000Z</published>
-    <updated>2016-02-17T14:34:25.000Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="设计师" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
-    
-    
-      <category term="设计师" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
     
   </entry>
   
