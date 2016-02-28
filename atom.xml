@@ -4,9 +4,9 @@
   <subtitle>一个不一样的技术博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://jijiangzhi.com/"/>
+  <link href="http://www.jijiangzhi.com/"/>
   <updated>2016-02-27T13:53:09.000Z</updated>
-  <id>http://jijiangzhi.com/</id>
+  <id>http://www.jijiangzhi.com/</id>
   
   <author>
     <name>Edison Chen</name>
@@ -17,54 +17,54 @@
   
   <entry>
     <title>一周iOS资源精选【第一期】</title>
-    <link href="http://jijiangzhi.com/2016/02/27/%E4%B8%80%E5%91%A8iOS%E8%B5%84%E6%BA%90%E7%B2%BE%E9%80%89%E3%80%90%E7%AC%AC%E4%B8%80%E6%9C%9F%E3%80%91/"/>
-    <id>http://jijiangzhi.com/2016/02/27/一周iOS资源精选【第一期】/</id>
+    <link href="http://www.jijiangzhi.com/2016/02/27/%E4%B8%80%E5%91%A8iOS%E8%B5%84%E6%BA%90%E7%B2%BE%E9%80%89%E3%80%90%E7%AC%AC1%E6%9C%9F%E3%80%91/"/>
+    <id>http://www.jijiangzhi.com/2016/02/27/一周iOS资源精选【第1期】/</id>
     <published>2016-02-27T13:42:20.000Z</published>
     <updated>2016-02-27T13:53:09.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;strong&gt;技匠&lt;/strong&gt; 为你精心收集整理一周内国外资深设计师与开发人员推荐的优秀IOS设计/开发资源，涵盖工具、设计、教程、文章、书籍等各个方面。使你在IOS设计/开发领域始终与世界保持同步。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本周带来第一期精彩内容：&lt;/strong&gt;&lt;br&gt;（由于是第一期，花了更多时间准备，内容稍有滞后，请大家见谅 ^__^）&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/30daysswift.png&quot; alt=&quot;30daysswift.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/30daysswift.png&quot; alt=&quot;30daysswift.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;30_Days_of_Swift&quot;&gt;&lt;a href=&quot;#30_Days_of_Swift&quot; class=&quot;headerlink&quot; title=&quot;30 Days of Swift&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/allenwong/30DaysofSwift&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;30 Days of Swift&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;一个设计师用一个月时间学习并使用Swift完成了30个IOS小应用，并将它们分享在GitHub上。这些小应用都各不相同，涵盖了Swift开发的各个方面，非常值得学习。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/sketch-beta.png&quot; alt=&quot;sketch-beta.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/sketch-beta.png&quot; alt=&quot;sketch-beta.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Sketch_3-6_Beta&quot;&gt;&lt;a href=&quot;#Sketch_3-6_Beta&quot; class=&quot;headerlink&quot; title=&quot;Sketch 3.6 Beta&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.sketchapp.com/beta/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sketch 3.6 Beta&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Sketch 3.2 beta版本已经开放下载试用，修复了已经存在很久的line-height问题，并且整个工具的性能得到了很大的提高。了解更多新特性可以参考推酷上的 &lt;a href=&quot;http://www.tuicool.com/articles/FJnuqaf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《Sketch 3.2 beta新特性》&lt;/a&gt;这篇文章。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/ios-interface.png&quot; alt=&quot;ios-interface.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/ios-interface.png&quot; alt=&quot;ios-interface.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;iOS_Interfaces_with_Xcode_Playgrounds&quot;&gt;&lt;a href=&quot;#iOS_Interfaces_with_Xcode_Playgrounds&quot; class=&quot;headerlink&quot; title=&quot;iOS Interfaces with Xcode Playgrounds&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.whitesmith.co/blog/ios-interfaces-with-xcode-playgrounds/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS Interfaces with Xcode Playgrounds&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;这是一篇关于Xcode新特性——Interactive Playgrounds 的快速指南。上面的示例非常详细，通过这篇文章你可以学会如何使用Interactive Playgrounds来定制自己的UI组件。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/chat-ui.png&quot; alt=&quot;chat-ui.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/chat-ui.png&quot; alt=&quot;chat-ui.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Free_Chat_UI_kit_for_Photoshop_and_Sketch&quot;&gt;&lt;a href=&quot;#Free_Chat_UI_kit_for_Photoshop_and_Sketch&quot; class=&quot;headerlink&quot; title=&quot;Free Chat UI kit for Photoshop and Sketch&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.invisionapp.com/chat&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Free Chat UI kit for Photoshop and Sketch&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;来自InVision的一套非常漂亮的UI Kit，它是完全免费的，并且同时提供了Sketch和PS两个版本。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/prototype.gif&quot; alt=&quot;prototype.gif&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/prototype.gif&quot; alt=&quot;prototype.gif&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Can_you_Code_this_UI_Concept_3F&quot;&gt;&lt;a href=&quot;#Can_you_Code_this_UI_Concept_3F&quot; class=&quot;headerlink&quot; title=&quot;Can you Code this UI Concept?&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://stories.uplabs.com/can-you-code-this-ui-concept-vol-2-9c9763269640#.cxwxcsjyr&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Can you Code this UI Concept?&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;来自Medium的一篇很有意思的文章，讲述如何将一个漂亮的UI设计转换为原型的，并分享了相关代码。使用到Jade，SCSS等技术。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/prototype-xcode.png&quot; alt=&quot;prototype-xcode.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/prototype-xcode.png&quot; alt=&quot;prototype-xcode.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Mobile_Prototyping_with_Xcode&quot;&gt;&lt;a href=&quot;#Mobile_Prototyping_with_Xcode&quot; class=&quot;headerlink&quot; title=&quot;Mobile Prototyping with Xcode&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://medium.com/mindsea-development-inc/mobile-prototyping-with-xcode-e9487400ef65#.nzurnr22t&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mobile Prototyping with Xcode&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;越来越多的设计师开始直接使用XCode进行原型设计和开发。这篇文章一步一步告诉你他们是怎么做得。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/circle-menu.gif&quot; alt=&quot;circle-menu.gif&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/circle-menu.gif&quot; alt=&quot;circle-menu.gif&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Circle_Menu&quot;&gt;&lt;a href=&quot;#Circle_Menu&quot; class=&quot;headerlink&quot; title=&quot;Circle Menu&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://github.com/Ramotion/circle-menu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Circle Menu&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;一个用Swift开发的非常有趣的环形菜单动效，在GitHub上可以得到它的源码。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/protosketch.png&quot; alt=&quot;protosketch.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/protosketch.png&quot; alt=&quot;protosketch.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;ProtoSketch__u2013_Graphic_Design_and_Prototypes_Made_Easy&quot;&gt;&lt;a href=&quot;#ProtoSketch__u2013_Graphic_Design_and_Prototypes_Made_Easy&quot; class=&quot;headerlink&quot; title=&quot;ProtoSketch – Graphic Design and Prototypes Made Easy&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://protosketch.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ProtoSketch – Graphic Design and Prototypes Made Easy&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;ProtoSketch是iPad上最接近Sketch的设计工具，能够编辑矢量图，导出SVG，甚至还有IOS 9 UI模板可供使用。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/best-articles.png&quot; alt=&quot;best-articles.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/best-articles.png&quot; alt=&quot;best-articles.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Best_Articles_of_Medium_2015&quot;&gt;&lt;a href=&quot;#Best_Articles_of_Medium_2015&quot; class=&quot;headerlink&quot; title=&quot;Best Articles of Medium 2015&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.bestarticles.xyz/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Best Articles of Medium 2015&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果你想要一些在线下阅读的设计文章，那么通过这个链接可以下载2015年Medium上的最佳文集。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/SketchNewTemplate.png&quot; alt=&quot;SketchNewTemplate.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/SketchNewTemplate.png&quot; alt=&quot;SketchNewTemplate.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Sketch_Tutorial_for_iOS_Developers&quot;&gt;&lt;a href=&quot;#Sketch_Tutorial_for_iOS_Developers&quot; class=&quot;headerlink&quot; title=&quot;Sketch Tutorial for iOS Developers&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.raywenderlich.com/117609/sketch-indie-developers&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sketch Tutorial for iOS Developers&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;一个非常棒的面向开发者的Sketch教程，展示了如果使用Sketch进行设计并设计转换到Xcode中的。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/Twitter+iOS.png&quot; alt=&quot;Twitter+iOS.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/Twitter+iOS.png&quot; alt=&quot;Twitter+iOS.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Social_Media_Whitewash&quot;&gt;&lt;a href=&quot;#Social_Media_Whitewash&quot; class=&quot;headerlink&quot; title=&quot;Social Media Whitewash&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.elischiff.com/2016/2/9/social-media-whitewash&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Social Media Whitewash&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;这篇文章告诉我们设计不总是前后一致的，我们要做的是不断提高它的辨识度。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/zeplin-css.png&quot; alt=&quot;zeplin-css.png&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/zeplin-css.png&quot; alt=&quot;zeplin-css.png&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Zeplin_Now_Generates_CSS&quot;&gt;&lt;a href=&quot;#Zeplin_Now_Generates_CSS&quot; class=&quot;headerlink&quot; title=&quot;Zeplin Now Generates CSS&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://medium.com/zeplin-gazette/generating-css-that-makes-sense-from-designs-a96ae4524733#.9kk2gbyyn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Zeplin Now Generates CSS&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Zeplin仍在不断地改进，已经可以通过它自动生成CSS代码。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/great-books.jpeg&quot; alt=&quot;great-books.jpeg&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/great-books.jpeg&quot; alt=&quot;great-books.jpeg&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Great_Books_for_Designers_to_Read_in_2016&quot;&gt;&lt;a href=&quot;#Great_Books_for_Designers_to_Read_in_2016&quot; class=&quot;headerlink&quot; title=&quot;Great Books for Designers to Read in 2016&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://blog.pttrns.com/great-books-for-designers-to-read-in-2016-d2ebea3763f4#.dl1fdu1tt&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Great Books for Designers to Read in 2016&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;一份Robert Greene推荐的2016年设计师阅读书单，非常棒，每个设计师都应该去读它们。&lt;/p&gt;
 &lt;hr&gt;
-&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第一期】/frontend-design.gif&quot; alt=&quot;frontend-design.gif&quot; title=&quot;&quot;&gt;
+&lt;img src=&quot;/2016/02/27/一周iOS资源精选【第1期】/frontend-design.gif&quot; alt=&quot;frontend-design.gif&quot; title=&quot;&quot;&gt;
 &lt;h3 id=&quot;Frontend_Design&quot;&gt;&lt;a href=&quot;#Frontend_Design&quot; class=&quot;headerlink&quot; title=&quot;Frontend Design&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/frontend-design&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Frontend Design&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;一篇关于前端设计的非常有意思的文章，告诉我们为什么将设计师和开发人员结合在一起是有意义的。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;（ 以上内容未经许可，不得转载 ）&lt;/strong&gt;&lt;/p&gt;
@@ -77,17 +77,17 @@
     
     </summary>
     
-      <category term="周刊" scheme="http://jijiangzhi.com/categories/%E5%91%A8%E5%88%8A/"/>
+      <category term="周刊" scheme="http://www.jijiangzhi.com/categories/%E5%91%A8%E5%88%8A/"/>
     
     
-      <category term="iOS" scheme="http://jijiangzhi.com/tags/iOS/"/>
+      <category term="iOS" scheme="http://www.jijiangzhi.com/tags/iOS/"/>
     
   </entry>
   
   <entry>
     <title>自学设计，你真的入门了吗？</title>
-    <link href="http://jijiangzhi.com/2016/02/25/%E8%87%AA%E5%AD%A6%E8%AE%BE%E8%AE%A1%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%85%A5%E9%97%A8%E4%BA%86%E5%90%97%EF%BC%9F/"/>
-    <id>http://jijiangzhi.com/2016/02/25/自学设计，你真的入门了吗？/</id>
+    <link href="http://www.jijiangzhi.com/2016/02/25/%E8%87%AA%E5%AD%A6%E8%AE%BE%E8%AE%A1%EF%BC%8C%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%85%A5%E9%97%A8%E4%BA%86%E5%90%97%EF%BC%9F/"/>
+    <id>http://www.jijiangzhi.com/2016/02/25/自学设计，你真的入门了吗？/</id>
     <published>2016-02-24T21:39:46.000Z</published>
     <updated>2016-02-24T21:52:33.000Z</updated>
     
@@ -162,17 +162,17 @@
     
     </summary>
     
-      <category term="设计师" scheme="http://jijiangzhi.com/categories/%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
+      <category term="设计师" scheme="http://www.jijiangzhi.com/categories/%E8%AE%BE%E8%AE%A1%E5%B8%88/"/>
     
     
-      <category term="设计" scheme="http://jijiangzhi.com/tags/%E8%AE%BE%E8%AE%A1/"/>
+      <category term="设计" scheme="http://www.jijiangzhi.com/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>为什么你应该写作</title>
-    <link href="http://jijiangzhi.com/2016/02/21/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%86%99%E4%BD%9C/"/>
-    <id>http://jijiangzhi.com/2016/02/21/为什么你应该写作/</id>
+    <link href="http://www.jijiangzhi.com/2016/02/21/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%86%99%E4%BD%9C/"/>
+    <id>http://www.jijiangzhi.com/2016/02/21/为什么你应该写作/</id>
     <published>2016-02-21T00:38:10.000Z</published>
     <updated>2016-02-21T02:23:25.000Z</updated>
     
@@ -268,19 +268,19 @@
     
     </summary>
     
-      <category term="观点" scheme="http://jijiangzhi.com/categories/%E8%A7%82%E7%82%B9/"/>
+      <category term="观点" scheme="http://www.jijiangzhi.com/categories/%E8%A7%82%E7%82%B9/"/>
     
     
-      <category term="写作" scheme="http://jijiangzhi.com/tags/%E5%86%99%E4%BD%9C/"/>
+      <category term="写作" scheme="http://www.jijiangzhi.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-      <category term="生活" scheme="http://jijiangzhi.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://www.jijiangzhi.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>【转】成为优秀程序员的10条黄金法则</title>
-    <link href="http://jijiangzhi.com/2016/02/17/%E3%80%90%E8%BD%AC%E3%80%91%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8410%E6%9D%A1%E9%BB%84%E9%87%91%E6%B3%95%E5%88%99/"/>
-    <id>http://jijiangzhi.com/2016/02/17/【转】成为优秀程序员的10条黄金法则/</id>
+    <link href="http://www.jijiangzhi.com/2016/02/17/%E3%80%90%E8%BD%AC%E3%80%91%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8410%E6%9D%A1%E9%BB%84%E9%87%91%E6%B3%95%E5%88%99/"/>
+    <id>http://www.jijiangzhi.com/2016/02/17/【转】成为优秀程序员的10条黄金法则/</id>
     <published>2016-02-17T14:18:23.000Z</published>
     <updated>2016-02-17T14:34:29.000Z</updated>
     
@@ -306,17 +306,17 @@
     
     </summary>
     
-      <category term="程序员" scheme="http://jijiangzhi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+      <category term="程序员" scheme="http://www.jijiangzhi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
     
     
-      <category term="程序员" scheme="http://jijiangzhi.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+      <category term="程序员" scheme="http://www.jijiangzhi.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
     
   </entry>
   
   <entry>
     <title>如何成为一名优秀的全栈工程师</title>
-    <link href="http://jijiangzhi.com/2016/02/17/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E4%BC%98%E7%A7%80%E7%9A%84%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
-    <id>http://jijiangzhi.com/2016/02/17/如何成为一名优秀的全栈工程师/</id>
+    <link href="http://www.jijiangzhi.com/2016/02/17/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E4%BC%98%E7%A7%80%E7%9A%84%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+    <id>http://www.jijiangzhi.com/2016/02/17/如何成为一名优秀的全栈工程师/</id>
     <published>2016-02-16T22:40:41.000Z</published>
     <updated>2016-02-17T13:36:32.000Z</updated>
     
@@ -387,19 +387,19 @@
     
     </summary>
     
-      <category term="程序员" scheme="http://jijiangzhi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+      <category term="程序员" scheme="http://www.jijiangzhi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
     
     
-      <category term="全栈" scheme="http://jijiangzhi.com/tags/%E5%85%A8%E6%A0%88/"/>
+      <category term="全栈" scheme="http://www.jijiangzhi.com/tags/%E5%85%A8%E6%A0%88/"/>
     
-      <category term="程序员" scheme="http://jijiangzhi.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+      <category term="程序员" scheme="http://www.jijiangzhi.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
     
   </entry>
   
   <entry>
     <title>给职场新人的10点职涯建议</title>
-    <link href="http://jijiangzhi.com/2016/02/11/%E7%BB%99%E8%81%8C%E5%9C%BA%E6%96%B0%E4%BA%BA%E7%9A%8410%E7%82%B9%E8%81%8C%E6%B6%AF%E5%BB%BA%E8%AE%AE/"/>
-    <id>http://jijiangzhi.com/2016/02/11/给职场新人的10点职涯建议/</id>
+    <link href="http://www.jijiangzhi.com/2016/02/11/%E7%BB%99%E8%81%8C%E5%9C%BA%E6%96%B0%E4%BA%BA%E7%9A%8410%E7%82%B9%E8%81%8C%E6%B6%AF%E5%BB%BA%E8%AE%AE/"/>
+    <id>http://www.jijiangzhi.com/2016/02/11/给职场新人的10点职涯建议/</id>
     <published>2016-02-11T02:59:41.000Z</published>
     <updated>2016-02-17T14:34:34.000Z</updated>
     
@@ -447,12 +447,12 @@
     
     </summary>
     
-      <category term="程序员" scheme="http://jijiangzhi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+      <category term="程序员" scheme="http://www.jijiangzhi.com/categories/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
     
     
-      <category term="程序员" scheme="http://jijiangzhi.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+      <category term="程序员" scheme="http://www.jijiangzhi.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
     
-      <category term="职业生涯" scheme="http://jijiangzhi.com/tags/%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF/"/>
+      <category term="职业生涯" scheme="http://www.jijiangzhi.com/tags/%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF/"/>
     
   </entry>
   
